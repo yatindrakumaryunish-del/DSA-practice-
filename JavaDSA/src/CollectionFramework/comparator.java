@@ -1,8 +1,8 @@
 package CollectionFramework;
 
 public class comparator {
-    public int age ;
-    public String name ;
+    public int age;
+    public String name;
     public int weight;
 
     public int getAge() {
@@ -36,3 +36,5 @@ public class comparator {
 
     }
 }
+
+
